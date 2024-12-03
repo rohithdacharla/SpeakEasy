@@ -32,4 +32,6 @@ const TextArea = ({ id, value, onChange, placeholder }) => (
   />
 );
 
+//export default TextArea;
+
 export default TextArea;
